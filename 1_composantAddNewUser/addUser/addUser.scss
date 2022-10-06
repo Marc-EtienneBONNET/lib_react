@@ -1,0 +1,17 @@
+.composant_add_User{
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: var(--box-shadow);
+    padding: 5%;
+}
+
+.my_form{
+    height:100%;
+}
+
+.my_div{
+    width:100%;
+    align-items: center;
+    grid-template-columns: 30% 70%;
+    margin:1%;    
+}
