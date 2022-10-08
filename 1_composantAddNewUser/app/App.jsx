@@ -1,5 +1,5 @@
 import { ComposantAddUser } from '../addUser/addUser'
-import './../styles/index.scss';
+import './../../../styles/index.scss';
 
 function ComposantAddNewUser() {
   return (
